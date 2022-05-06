@@ -1,3 +1,15 @@
+/*
+Actualizacion del programa compartido
+Se implemento el menu con las siguientes opciones:
+
+1. Insert a new node in AVL
+2. Display AVL Tree
+3. Delete node in AVL Tree
+4. Exit
+
+Estudiante: Cristian Quesada Cossio 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
